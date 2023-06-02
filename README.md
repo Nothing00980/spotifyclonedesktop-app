@@ -16,7 +16,10 @@ SpotifyClone is a project inspired by the popular music streaming platform, Spot
 
 ## Screenshots
 
-![spotifyclone](https://github.com/Nothing00980/spotifyclonedesktop-app/blob/master/Flutter%20Spotify%20UI%20-%20Google%20Chrome%202023-05-31%2018-49-07.mp4)
+
+
+https://github.com/Nothing00980/spotifyclonedesktop-app/assets/100027640/6a0ac950-df85-41fc-9544-926e9e819bf7
+
 
 
 
